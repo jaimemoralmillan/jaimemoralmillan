@@ -1,6 +1,10 @@
 
+![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/48bb6f28-608c-4da5-ba6b-bffd30d65064/dg1746t-c253a57d-2d93-4a73-80f0-5c3a4d90130f.jpg/v1/fill/w_1280,h_514,q_75,strp/vaporwave_moped_banner_by_thequeenyqueen_dg1746t-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTE0IiwicGF0aCI6IlwvZlwvNDhiYjZmMjgtNjA4Yy00ZGE1LWJhNmItYmZmZDMwZDY1MDY0XC9kZzE3NDZ0LWMyNTNhNTdkLTJkOTMtNGE3My04MGYwLTVjM2E0ZDkwMTMwZi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3MndMuSyqFCOvN5aDSJjwT-C4U4sKmcBfXF6-Rz47L4)
+
 <h1 align="center">Hi 👋, I'm Jaime Moral</h1>
 <h3 align="center">A passionate programming student</h3>
+
+<img align="right" alt="Coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimemoralmillan&label=Profile%20views&color=0e75b6&style=flat" alt="jaimemoralmillan" /> </p>
 
