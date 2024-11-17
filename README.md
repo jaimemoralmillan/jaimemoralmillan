@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web app frameworks Laravel and Django, and Ionic for cross-platform mobile development**
 
-- 👨‍💻 All of my projects are available [just below! Check my pinned repositories](just below! Check my pinned repositories)
+- 👨‍💻 All of my projects are available **just below! Check my pinned repositories**
 
 - 📫 How to reach me **jaimemoralmillan@gmail.com**
 
